@@ -1,0 +1,352 @@
+efficiency = [
+  {
+    "date": "10/1/22",
+    "domain": "switchbacktravel.com",
+    "revenue": 5029,
+    "cost": 7966,
+    "return": 0.63
+  },
+  {
+    "date": "10/1/22",
+    "domain": "mirror.co.uk",
+    "revenue": 5009,
+    "cost": 7898,
+    "return": 0.63
+  },
+  {
+    "date": "10/1/22",
+    "domain": "simplebackpain.com",
+    "revenue": 5042,
+    "cost": 7863,
+    "return": 0.64
+  },
+  {
+    "date": "10/1/22",
+    "domain": "sleepauthority.com",
+    "revenue": 5163,
+    "cost": 7926,
+    "return": 0.65
+  },
+  {
+    "date": "10/1/22",
+    "domain": "oursleepguide.com",
+    "revenue": 5159,
+    "cost": 7900,
+    "return": 0.65
+  },
+  {
+    "date": "10/1/22",
+    "domain": "originalmattress.com",
+    "revenue": 9584,
+    "cost": 502,
+    "return": 19.09
+  },
+  {
+    "date": "10/1/22",
+    "domain": "ourhomelove.com",
+    "revenue": 9504,
+    "cost": 504,
+    "return": 18.86
+  },
+  {
+    "date": "10/1/22",
+    "domain": "spineandwellness.org",
+    "revenue": 9664,
+    "cost": 518,
+    "return": 18.66
+  },
+  {
+    "date": "10/1/22",
+    "domain": "gq-magazine.co.uk",
+    "revenue": 9968,
+    "cost": 556,
+    "return": 17.93
+  },
+  {
+    "date": "10/1/22",
+    "domain": "qvc.com",
+    "revenue": 9819,
+    "cost": 548,
+    "return": 17.92
+  },
+  {
+    "date": "10/2/22",
+    "domain": "switchbacktravel.com",
+    "revenue": 5029,
+    "cost": 7966,
+    "return": 0.63
+  },
+  {
+    "date": "10/2/22",
+    "domain": "mirror.co.uk",
+    "revenue": 5009,
+    "cost": 7898,
+    "return": 0.63
+  },
+  {
+    "date": "10/2/22",
+    "domain": "simplebackpain.com",
+    "revenue": 5042,
+    "cost": 7863,
+    "return": 0.64
+  },
+  {
+    "date": "10/2/22",
+    "domain": "sleepauthority.com",
+    "revenue": 5163,
+    "cost": 7926,
+    "return": 0.65
+  },
+  {
+    "date": "10/2/22",
+    "domain": "oursleepguide.com",
+    "revenue": 5159,
+    "cost": 7900,
+    "return": 0.65
+  },
+  {
+    "date": "10/2/22",
+    "domain": "originalmattress.com",
+    "revenue": 9584,
+    "cost": 502,
+    "return": 19.09
+  },
+  {
+    "date": "10/2/22",
+    "domain": "ourhomelove.com",
+    "revenue": 9504,
+    "cost": 504,
+    "return": 18.86
+  },
+  {
+    "date": "10/2/22",
+    "domain": "spineandwellness.org",
+    "revenue": 9664,
+    "cost": 518,
+    "return": 18.66
+  },
+  {
+    "date": "10/2/22",
+    "domain": "gq-magazine.co.uk",
+    "revenue": 9968,
+    "cost": 556,
+    "return": 17.93
+  },
+  {
+    "date": "10/2/22",
+    "domain": "qvc.com",
+    "revenue": 9819,
+    "cost": 548,
+    "return": 17.92
+  },
+  {
+    "date": "10/3/22",
+    "domain": "switchbacktravel.com",
+    "revenue": 5029,
+    "cost": 7966,
+    "return": 0.63
+  },
+  {
+    "date": "10/3/22",
+    "domain": "mirror.co.uk",
+    "revenue": 5009,
+    "cost": 7898,
+    "return": 0.63
+  },
+  {
+    "date": "10/3/22",
+    "domain": "simplebackpain.com",
+    "revenue": 5042,
+    "cost": 7863,
+    "return": 0.64
+  },
+  {
+    "date": "10/3/22",
+    "domain": "sleepauthority.com",
+    "revenue": 5163,
+    "cost": 7926,
+    "return": 0.65
+  },
+  {
+    "date": "10/3/22",
+    "domain": "oursleepguide.com",
+    "revenue": 5159,
+    "cost": 7900,
+    "return": 0.65
+  },
+  {
+    "date": "10/3/22",
+    "domain": "originalmattress.com",
+    "revenue": 9584,
+    "cost": 502,
+    "return": 19.09
+  },
+  {
+    "date": "10/3/22",
+    "domain": "ourhomelove.com",
+    "revenue": 9504,
+    "cost": 504,
+    "return": 18.86
+  },
+  {
+    "date": "10/3/22",
+    "domain": "spineandwellness.org",
+    "revenue": 9664,
+    "cost": 518,
+    "return": 18.66
+  },
+  {
+    "date": "10/3/22",
+    "domain": "gq-magazine.co.uk",
+    "revenue": 9968,
+    "cost": 556,
+    "return": 17.93
+  },
+  {
+    "date": "10/3/22",
+    "domain": "qvc.com",
+    "revenue": 9819,
+    "cost": 548,
+    "return": 17.92
+  },
+  {
+    "date": "10/4/22",
+    "domain": "switchbacktravel.com",
+    "revenue": 5029,
+    "cost": 7966,
+    "return": 0.63
+  },
+  {
+    "date": "10/4/22",
+    "domain": "mirror.co.uk",
+    "revenue": 5009,
+    "cost": 7898,
+    "return": 0.63
+  },
+  {
+    "date": "10/4/22",
+    "domain": "simplebackpain.com",
+    "revenue": 5042,
+    "cost": 7863,
+    "return": 0.64
+  },
+  {
+    "date": "10/4/22",
+    "domain": "sleepauthority.com",
+    "revenue": 5163,
+    "cost": 7926,
+    "return": 0.65
+  },
+  {
+    "date": "10/4/22",
+    "domain": "oursleepguide.com",
+    "revenue": 5159,
+    "cost": 7900,
+    "return": 0.65
+  },
+  {
+    "date": "10/4/22",
+    "domain": "originalmattress.com",
+    "revenue": 9584,
+    "cost": 502,
+    "return": 19.09
+  },
+  {
+    "date": "10/4/22",
+    "domain": "ourhomelove.com",
+    "revenue": 9504,
+    "cost": 504,
+    "return": 18.86
+  },
+  {
+    "date": "10/4/22",
+    "domain": "spineandwellness.org",
+    "revenue": 9664,
+    "cost": 518,
+    "return": 18.66
+  },
+  {
+    "date": "10/4/22",
+    "domain": "gq-magazine.co.uk",
+    "revenue": 9968,
+    "cost": 556,
+    "return": 17.93
+  },
+  {
+    "date": "10/4/22",
+    "domain": "qvc.com",
+    "revenue": 9819,
+    "cost": 548,
+    "return": 17.92
+  },
+  {
+    "date": "10/5/22",
+    "domain": "switchbacktravel.com",
+    "revenue": 5029,
+    "cost": 7966,
+    "return": 0.63
+  },
+  {
+    "date": "10/5/22",
+    "domain": "mirror.co.uk",
+    "revenue": 5009,
+    "cost": 7898,
+    "return": 0.63
+  },
+  {
+    "date": "10/5/22",
+    "domain": "simplebackpain.com",
+    "revenue": 5042,
+    "cost": 7863,
+    "return": 0.64
+  },
+  {
+    "date": "10/5/22",
+    "domain": "sleepauthority.com",
+    "revenue": 5163,
+    "cost": 7926,
+    "return": 0.65
+  },
+  {
+    "date": "10/5/22",
+    "domain": "oursleepguide.com",
+    "revenue": 5159,
+    "cost": 7900,
+    "return": 0.65
+  },
+  {
+    "date": "10/5/22",
+    "domain": "originalmattress.com",
+    "revenue": 9584,
+    "cost": 502,
+    "return": 19.09
+  },
+  {
+    "date": "10/5/22",
+    "domain": "ourhomelove.com",
+    "revenue": 9504,
+    "cost": 504,
+    "return": 18.86
+  },
+  {
+    "date": "10/5/22",
+    "domain": "spineandwellness.org",
+    "revenue": 9664,
+    "cost": 518,
+    "return": 18.66
+  },
+  {
+    "date": "10/5/22",
+    "domain": "gq-magazine.co.uk",
+    "revenue": 9968,
+    "cost": 556,
+    "return": 17.93
+  },
+  {
+    "date": "10/5/22",
+    "domain": "qvc.com",
+    "revenue": 9819,
+    "cost": 548,
+    "return": 17.92
+  }
+ ]
